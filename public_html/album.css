@@ -52,6 +52,7 @@ body {
 
 .card > img {
   margin-bottom: .75rem;
+  height: 260px;
 }
 
 .card-text {
